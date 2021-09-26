@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Fun Pizza",
+        "ingredients": [
+            {
+                "name": "tomato",
+                "price": 0.5
+            },
+            {
+                "name": "sliced mushrooms",
+                "price": 0.5
+            },
+            {
+                "name": "feta cheese",
+                "price": 1
+            },
+            {
+                "name": "sausages",
+                "price": 1.0
+            },
+            {
+                "name": "sliced onion",
+                "price": 0.5
+            },
+            {
+                "name": "mozzarella cheese",
+                "price": 0.5
+            },
+            {
+                "name": "oregano",
+                "price": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Super Mushroom Pizza",
+        "ingredients": [
+            {
+                "name": "tomato",
+                "price": 0.5
+            },
+            {
+                "name": "bacon",
+                "price": 1.0
+            },
+            {
+                "name": "mozzarella cheese",
+                "price": 0.5
+            },
+            {
+                "name": "sliced mushrooms",
+                "price": 0.5
+            },
+            {
+                "name": "oregano",
+                "price": 1
+            }
+        ]
+    }
+]
