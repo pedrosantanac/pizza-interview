@@ -1,13 +1,13 @@
 
 function printCatalog() {
-    fetch('catalog.json')
+    fetch('/catalogs')
         .then(res => res.json())
         .then(catalog => {
-            initrender(catalog)
+            initRender(catalog.data)
         })
 }
 
-function initrender(catalog) {
+function initRender(catalog) {
     renderPizzas(catalog);
     renderPizzaPrice(catalog);
 }
